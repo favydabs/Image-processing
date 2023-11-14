@@ -2,7 +2,7 @@ import React from "react";
 import * as AiIcons from "react-icons/ai";
 import { FcAbout } from "react-icons/fc";
 import * as IoIcons from "react-icons/io";
-import { FaServicestack } from "react-icons/fa";
+// import { FaServicestack } from "react-icons/fa";
 import { FaImages } from "react-icons/fa6";
 export const SidebarData = [
 
@@ -18,12 +18,12 @@ export const SidebarData = [
     icon: <FcAbout />,
     cName: "nav-text",
   },
-  {
-    title: "Services",
-    path: "/service",
-    icon: <FaServicestack />,
-    cName: "nav-text",
-  },
+  // {
+  //   title: "Services",
+  //   path: "/service",
+  //   icon: <FaServicestack />,
+  //   cName: "nav-text",
+  // },
   {
     title: "Team",
     path: "/team",
