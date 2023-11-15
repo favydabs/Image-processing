@@ -1,6 +1,8 @@
 import React from 'react'
 import dabs from "../assets/img/team/dabs.jpg";
-import henry from "../assets/img/team/henry.jpg"
+import henry from "../assets/img/team/henry.jpg";
+import '@fortawesome/fontawesome-free/css/all.css';
+
 
 
 function Team() {
