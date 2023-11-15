@@ -1,6 +1,7 @@
 import React from "react";
 import "./pages.css";
 
+// App's homepage welcoming all users
 function Homepage() {
   return (
     

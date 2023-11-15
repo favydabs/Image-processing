@@ -1,10 +1,15 @@
+// React library for building user interfaces
 import React from 'react'
+
+// Import images for team members from the assets directory
 import dabs from "../assets/img/team/dabs.jpg";
 import henry from "../assets/img/team/henry.jpg";
+
+// Import Font Awesome CSS for using icons
 import '@fortawesome/fontawesome-free/css/all.css';
 
 
-
+// Page Content for team members
 function Team() {
   return (
     <section class="page-section bg-light" id="team">

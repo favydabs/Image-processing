@@ -1,13 +1,16 @@
+// Route-related components from the react-router-dom library
+import { Route, Routes } from "react-router-dom";
+
+// All pages and sections
 import Main from "./component/Main";
 import Footer from "./component/Landingpage/Pages/Footer";
 import Navbar from "./component/Landingpage/Bar/Navbar";
-import { Route, Routes } from "react-router-dom";
 import About from "./component/Landingpage/Pages/About";
 import Homepage from "./component/Landingpage/Pages/Homepage";
 // import Services from "./component/Landingpage/Services";
 import Team from "./component/Landingpage/Pages/Team";
 
-
+// Navigation Bar
 function App() {
   return (
     <div>
