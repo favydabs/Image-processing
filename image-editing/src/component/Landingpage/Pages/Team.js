@@ -7,6 +7,7 @@ import henry from "../assets/img/team/henry.jpg";
 
 // Import Font Awesome CSS for using icons
 import '@fortawesome/fontawesome-free/css/all.css';
+import "./pages.css";
 
 
 // Page Content for team members
