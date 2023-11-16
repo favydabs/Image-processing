@@ -7,6 +7,7 @@ import Navbar from "./component/Landingpage/Bar/Navbar";
 import About from "./component/Landingpage/Pages/About";
 import Team from "./component/Landingpage/Pages/Team";
 import Main from "./component/Main";
+import Homepage from "./component/Landingpage/Pages/Homepage";
 
 // Navigation Bar
 function App() {
@@ -19,28 +20,8 @@ function App() {
       <Routes>
         {/* Home page */}
         <Route
-          path="/"
-          element={
-            <div>
-              {/* Content specific to the Home page */}
-              <header className="masthead">
-                <div className="container">
-                  <div className="masthead-subheading">Welcome To Our Studio!</div>
-                  <div className="masthead-heading text-uppercase">It's Nice To Meet You</div>
-                  <div>
-                    <a className="btn btn-primary btn-xl text-uppercase" href="/about">
-                      Tell Me More
-                    </a>
-                    <a className="btn btn-primary btn-xl text-uppercase" href="/main">
-                      Edit A Photo
-                    </a>
-                  </div>
-                </div>
-              </header>
-            </div>
-          }
-        />
-
+          path="/" element={<Homepage/>} />
+           
         {/* About page */}
         <Route path="/about" element={<About />} />
 
@@ -51,7 +32,8 @@ function App() {
         <Route path="/main" element={<Main />} />
       </Routes>
 
-      {/* Footer is displayed on all pages */}
+      {/* Footer is displayed on all pages  */}
+
       <Footer />
     </div>
   );
