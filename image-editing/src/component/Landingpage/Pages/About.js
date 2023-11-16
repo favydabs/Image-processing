@@ -33,7 +33,7 @@ function About() {
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">
-                    Welcome to our innovative image processing platform, crafted as a pinnacle of our expertise at <a href="https://www.alxafrica.com/">ALX Africa.</a> Rooted in a passion for technology and creativity, we've meticulously designed this project to offer seamless solutions to internet users like you.
+                    Welcome to our innovative image processing platform, crafted as a pinnacle of our expertise at <a href="https://www.alxafrica.com/" target='_blank rel="noreferrer"'>ALX Africa.</a> Rooted in a passion for technology and creativity, we've meticulously designed this project to offer seamless solutions to internet users like you.
                   </p>
                 </div>
               </div>
@@ -52,7 +52,7 @@ function About() {
                 </div>
                 <div className="timeline-body">
                   <p className="text-muted">
-                    At our core, we transcend traditional image processing. With roots in creativity and expertise honed at <a href="https://www.alxafrica.com/">ALX Africa,</a> we craft your digital moments into compelling narratives. Our fusion of technical mastery and artistic finesse ensures your images echo with resonant stories.
+                    At our core, we transcend traditional image processing. With roots in creativity and expertise honed at <a href="https://www.alxafrica.com/" target='_blank' rel="noreferrer">ALX Africa,</a> we craft your digital moments into compelling narratives. Our fusion of technical mastery and artistic finesse ensures your images echo with resonant stories.
                   </p>
                 </div>
               </div>

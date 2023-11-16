@@ -34,7 +34,7 @@ function Team() {
                 <a
                   class="btn btn-dark btn-social mx-2"
                   href="https://x.com/Favydabs?t=4rHxGmGQMiwf2JQMpHfH_A&s=09"
-                  target='_blank'
+                  target='_blank' rel="noreferrer"
                   aria-label="Dabit Favour Twitter Profile"
                 > 
                   <i class="fab fa-twitter"></i>
@@ -43,7 +43,7 @@ function Team() {
                 <a
                   class="btn btn-dark btn-social mx-2"
                   href="https://www.linkedin.com/in/dabit-favour-297b11250/"
-                  target='_blank'
+                  target='_blank' rel="noreferrer"
                   aria-label="Dabit Favour LinkedIn Profile"
                 >
                   <i class="fab fa-linkedin-in"></i>
@@ -62,7 +62,7 @@ function Team() {
                 <a
                   class="btn btn-dark btn-social mx-2"
                   href="https://x.com/___acidrain?s=21&t=js2JwrjjZC62Hnu6jBXosg"
-                  target='_blank'
+                  target='_blank' rel="noreferrer"
                   aria-label="Henry Orjiude Twitter Profile"
                 >
                   <i class="fab fa-twitter"></i>
@@ -71,7 +71,7 @@ function Team() {
                 <a
                   class="btn btn-dark btn-social mx-2"
                   href="https://www.linkedin.com/in/henry-orjiude-b27a6583"
-                  target='_blank'
+                  target='_blank' rel="noreferrer"
                   aria-label="Henry Orjiude LinkedIn Profile"
                 >
                   <i class="fab fa-linkedin-in"></i>
